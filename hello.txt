@@ -1,1 +1,2 @@
 this is the first file
+I am learning how to use gitHub
